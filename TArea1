@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>HOLA PLANETA TIERRA</h1>
+    <li>Este es un ejemplo sobre la tierra</li>
+    -----------------------------------------------------------
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">
+                    Pagina 1 secuencia consecutiva
+                </a>
+            </li>
+            <li>
+                <a href="index.html" target="_blank">
+                    Pagina 2 secuencia de 2 ventana
+                </a>
+            </li>
+        </ul>
+    </nav>
+    ----------------------------------------------------------
+</body> <img src="https://www.foronuclear.org/wp-content/uploads/2010/06/planeta-Tierra-854x465.jpg" alt="Descripción">
+<h1>La tierra </h1>
+
+</html>
+<h2>
+    <p>22 de abril, el mundo conmemora el Día de la Tierra, una fecha que trasciende lo simbólico para convertirse en
+        un llamado urgente a la acción frente a la creciente crisis ambiental que enfrenta el planeta; el cambio
+        climático,
+        la contaminación y la pérdida de biodiversidad exigen respuestas inmediatas.</p>
+</h2>
+<h3> Nuestro Planeta, Nuestra Responsabilidad
+    <p>En este día, se busca concienciar sobre la importancia de cuidar nuestro hogar común, promoviendo prácticas
+        sostenibles y fomentando la responsabilidad individual y colectiva para preservar los recursos naturales y
+        garantizar un futuro saludable para las próximas generaciones.</p>
+</h3>
+<li>1-RESPETA</li>
+  <li>2-SE CONSIENTE </li>
+  <li>3-PIENSA Y TOMA CONSIENCIA</li> 
